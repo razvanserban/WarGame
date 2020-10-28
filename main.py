@@ -1,3 +1,7 @@
+'''
+Main Game
+'''
+
 from lib.card import Card
 from lib.deck import Deck
 from lib.player import Player
